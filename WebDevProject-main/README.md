@@ -1,6 +1,9 @@
-# Angular Project
+This is a web application for finding jobs and employees, including authorization, viewing companies, vacancies and resumes, with an admin panel in Django and an interface in Angular.
 
-This is an Angular project for WebDev spring.
+Backend: Django, DRF
+
+Frontend: Angular
+
 
 ## Group Members
 - Member 1: Raiymbek Arsen, 23B031408
